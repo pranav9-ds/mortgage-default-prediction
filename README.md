@@ -67,7 +67,7 @@ When a borrower defaults, Freddie Mac absorbs credit losses typically ranging fr
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/mortgage-default-prediction.git
+git clone https://github.com/pranav9-ds/mortgage-default-prediction.git
 cd mortgage-default-prediction
 
 # Install dependencies
